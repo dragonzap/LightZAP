@@ -1,6 +1,13 @@
 LightZAP
 by Szalai Mihaly (origional by Lokesh Dhakar [Lightbox])
 
+For more information, visit:
+http://dragonzap.szunyi.com/index.php?e=page&al=lightzap&l=en
+
+Licensed under the Creative Commons Attribution 2.5 License - http://creativecommons.org/licenses/by/2.5/
+- free for use in both personal and commercial projects
+- attribution requires leaving author name, author link, and the license info intact
+
 SETUP
 	1. Upload js, css, icons folder to FTP, and paste the next three line to HTML header region.
 		<script src="js/lightzap.js"></script>
