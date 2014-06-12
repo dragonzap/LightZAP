@@ -1,6 +1,11 @@
-﻿/* LightZAP v2.54b ( 2014.03.02 )
-	Dragonzap - Szalai Miha'ly */
-
+﻿/*
+	███   	▄                   ▄▄▄  ▄▄  ▄▄▄
+	██    	█    ▀  ▄▄  ▄ ▄ ▄▄▄   █ █  █ █  █
+	█████ 	█    █ █  ▀ █ █  █   █  █▄▄█ █▄▄▀
+	  ██  	█    █ █ ▀█ █▀█  █  █   █  █ █
+	  █   	▀▀▀▀ ▀  ▀▀  ▀ ▀  ▀  ▀▀▀ ▀  ▀ ▀  v2.54b (2014.06.12)
+			by Dragonzap - Szalai Mihaly
+*/
 var lz = new function() {
 //----- Options --------
 	this.options = {
